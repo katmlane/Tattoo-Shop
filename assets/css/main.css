@@ -234,7 +234,7 @@ h4.piercing {
 
 	h2.alt {
 		color:#c47cff;
-		background-color: rgba(0, 0, 0, 0.822);
+		background-color: rgba(0, 0, 0, 0.5);
 	}
 
 	h1.piercing {
@@ -909,10 +909,8 @@ h4.piercing {
 							padding-top: 4rem;
 						}
 			
-						/* p.container {
-							padding: 5rem 0;
-							margin: 5rem 0;
-						} */
+						
+						
 
 		}
 
@@ -1159,6 +1157,8 @@ h4.piercing {
 							padding-top: 3rem;
 						}
 
+						
+
 		}
 
 		@media screen and (max-width: 980px) {
@@ -1404,6 +1404,24 @@ h4.piercing {
 							padding-top: 3rem;
 						}
 
+
+
+/* 
+						img.image {
+							max-height: 25%;
+							
+						}
+
+						img.right, p.right {
+							float: right;
+							max-width: 25%;
+						}
+
+						img.left, p.left {
+							float:left;
+							max-width: 25%;
+						} */
+
 		}
 
 		@media screen and (max-width: 736px) {
@@ -1647,6 +1665,22 @@ h4.piercing {
 
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 2.5rem;
+						}
+
+
+						img.image {
+							max-height: 25%;
+							
+						}
+
+						img.right, p.right {
+							float: right;
+							max-width: 25%;
+						}
+
+						img.left, p.left {
+							float:left;
+							max-width: 25%;
 						}
 
 		}
